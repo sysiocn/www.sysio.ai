@@ -1,0 +1,17 @@
+div#runtime {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+div#ghbdages_list {
+  height: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.github-badge {
+  display:flex;
+  align-items: center;
+  margin-inline: 6px;
+}
