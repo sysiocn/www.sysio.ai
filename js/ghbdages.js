@@ -13,9 +13,6 @@ function renderBadge() {
             <a class="github-badge" target="_blank" href="https://analytics.sysio.ai/" title="umami">
                 <img src="https://img.shields.io/badge/Analytics-Umami-%237FB100?logo=umami&logoColor=%237FB100" alt="Static Badge">
             </a>
-            <a class="github-badge" target="_blank" href="https://analytics.sysio.ai/" title="umami">
-                <img src="https://img.shields.io/badge/Analytics-Umami-%237FB100?logo=umami&logoColor=%237FB100" alt="Static Badge">
-            </a>
         </div>`;
 
     const ghbdages = document.getElementById("ghbdages");
