@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'GenJyuuGothic-Light';
+    font-display: swap;
+    src: url('genjyuugothic/GenJyuuGothic-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XiaolaiSC-Regular';
+    font-display: swap;
+    src: url('genjyuugothic/XiaolaiSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-Bold';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-ExtraLight';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-Heavy';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-Light';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-Medium';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-Monospace-Bold';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-Monospace-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GenJyuuGothicX-P-Bold';
+    font-display: swap;
+    src: url('genjyuugothic-x/GenJyuuGothicX-P-Bold.ttf') format('truetype');
+}
